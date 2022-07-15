@@ -199,6 +199,7 @@ public class ResourceCentre {
 				camcorderList.get(i).setDueDate(dueDate);
 				
 				isLoaned = true;
+				// yes
 				
 			}
 		}
